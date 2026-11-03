@@ -1,0 +1,70 @@
+{
+  "captured_on": "2026-11-03",
+  "scope": "Screenshots of official public product pages; illustrative, not results of a comparative product test.",
+  "images": [
+    {
+      "id": "pdfimpose",
+      "file": "pdfimpose.png",
+      "source_url": "https://pdfimpose.com/",
+      "captured_on": "2026-11-03",
+      "alt": "PDFImpose homepage showing browser PDF imposition and print layouts",
+      "sha256": "cc48f3f4d7d1beb4c5d60e9235ac4d6532d28483c55b3891a93b4222d9e62f28"
+    },
+    {
+      "id": "justimpose",
+      "file": "justimpose.png",
+      "source_url": "https://justimpose.com/",
+      "captured_on": "2026-11-03",
+      "alt": "JustImpose homepage showing browser-based PDF layout workflows",
+      "sha256": "35d1141dd5f852af89a494715971d814b3c12b6d5320ea7d0e763df49e0a2e73"
+    },
+    {
+      "id": "fastimpose",
+      "file": "fastimpose.png",
+      "source_url": "https://fastimpose.com/",
+      "captured_on": "2026-11-03",
+      "alt": "FastImpose official desktop PDF imposition homepage",
+      "sha256": "e3960dc03de3125b7d9708eeba697b112c9506c7836c7581fea70fba968b6adc"
+    },
+    {
+      "id": "pdfpress",
+      "file": "pdfpress.png",
+      "source_url": "https://pdfpress.app/home",
+      "captured_on": "2026-11-03",
+      "alt": "PDFPress homepage showing an eight-page booklet layout",
+      "sha256": "d6b3ae601dbd11ba7456eb89d390a352093d04ce30c343658fab6da89870a583"
+    },
+    {
+      "id": "quite-imposing-family",
+      "file": "quite-imposing.jpg",
+      "source_url": "https://www.quite.com/imposing/features.htm",
+      "captured_on": "2026-11-03",
+      "alt": "Quite Imposing official features comparison for Plus and HOT",
+      "sha256": "461f0149cdd1c2f013b3fe534348a6ea27d2478e4515feef9e12659a65bd5296"
+    },
+    {
+      "id": "montax-imposer",
+      "file": "montax-imposer.jpg",
+      "source_url": "https://www.montax-imposer.com/",
+      "captured_on": "2026-11-03",
+      "alt": "Montax Imposer official product page with layout workspace example",
+      "sha256": "af052df8623b3e62ea900008714fe0be4e9e95327ee6257a27fba7654fabb625"
+    },
+    {
+      "id": "imposition-wizard",
+      "file": "imposition-wizard.jpg",
+      "source_url": "https://appsforlife.com/impositionwizard/",
+      "captured_on": "2026-11-03",
+      "alt": "Imposition Wizard official homepage and desktop application preview",
+      "sha256": "f71bd48cc5727e6a63b8d3656d22d616d8d558f107a14e452cb5efe8f2a7a42c"
+    },
+    {
+      "id": "bookletcreator",
+      "file": "bookletcreator.jpg",
+      "source_url": "https://www.bookletcreator.com/",
+      "captured_on": "2026-11-03",
+      "alt": "BookletCreator official homepage with a Mac application preview",
+      "sha256": "a40b45668a66aec7f302d5e1255587d5049f6b9971e282adb66e74c7666f6868"
+    }
+  ]
+}

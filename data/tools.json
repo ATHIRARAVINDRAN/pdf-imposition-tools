@@ -1,6 +1,9 @@
 {
   "schema_version": 1,
-  "title": "PDF imposition tools by workflow",
+  "title": "2026 & 2027's Top 8 Best PDF Imposition Tools",
+  "last_updated": "2026-11-03",
+  "edition_years": [2026, 2027],
+  "edition_note": "2027 planning edition based on documentation checked 3 November 2026.",
   "maintainer": "Athira",
   "documentation_checked_at": "2026-11-03",
   "selection_method": "Task-specific editorial selections from official documentation, with access restrictions and alternatives; not a comparative performance benchmark.",
@@ -18,6 +21,7 @@
       "account_requirement": "Google sign-in required",
       "free_export_allowance": {"total": 5, "minimum_interval_hours": 8},
       "limitations": ["Templates and recent jobs are stored locally; cloud sync is not yet available.", "Desktop access is by contact.", "Production-ticket output requires validation against the target equipment; current ticket exports describe front surfaces."],
+      "image": {"path": "../images/pdfimpose.png", "source_url": "https://pdfimpose.com/", "captured_on": "2026-11-03", "alt": "PDFImpose homepage showing browser PDF imposition and print layouts"},
       "sources": ["https://pdfimpose.com/", "https://pdfimpose.com/pricing"],
       "checked_at": "2026-11-03"
     },
@@ -33,6 +37,7 @@
       "account_requirement": "Google sign-in required",
       "free_export_allowance": {"total": 5, "minimum_interval_hours": 8},
       "limitations": ["N-up is a regular grid, not arbitrary-shape nesting.", "Each PDF contributes all its imported pages, not one cell per file.", "Front/back pairing and final-size scaling need a physical proof."],
+      "image": {"path": "../images/justimpose.png", "source_url": "https://justimpose.com/", "captured_on": "2026-11-03", "alt": "JustImpose homepage showing browser-based PDF layout workflows"},
       "sources": ["https://justimpose.com/", "https://justimpose.com/guides/n-up-multiple-pdf-files", "https://justimpose.com/pricing"],
       "checked_at": "2026-11-03"
     },
@@ -49,6 +54,7 @@
       "account_requirement": "Google sign-in required for current Mac downloads; trial registration itself is described as requiring no account or card.",
       "trial": {"duration_hours": 72, "registration": "online, once per app per computer", "activated_trial_export": "watermark-free", "unlicensed_export": "watermarked"},
       "limitations": ["Windows and Linux current installers are pending on the download page.", "Internet is required for licence activation and deactivation; the activated application works offline.", "Pro, Stickers and VDP are separate product routes; do not assume licence bundling."],
+      "image": {"path": "../images/fastimpose.png", "source_url": "https://fastimpose.com/", "captured_on": "2026-11-03", "alt": "FastImpose official desktop PDF imposition homepage"},
       "sources": ["https://fastimpose.com/", "https://fastimpose.com/download", "https://fastimpose.com/activate"],
       "checked_at": "2026-11-03"
     },
@@ -64,6 +70,7 @@
       "account_requirement": "Sign-in required for downloads",
       "free_export_allowance": {"total": 5, "minimum_interval_hours": 8},
       "limitations": ["Marks can enlarge the outer page; check that the output fits the production sheet.", "Local artwork processing is separate from online account and billing services.", "Bleed repair and marks require visual and dimensional review."],
+      "image": {"path": "../images/pdfpress.png", "source_url": "https://pdfpress.app/home", "captured_on": "2026-11-03", "alt": "PDFPress homepage showing an eight-page booklet layout"},
       "sources": ["https://pdfpress.app/home", "https://pdfpress.app/marks", "https://pdfpress.app/pricing"],
       "checked_at": "2026-11-03"
     },
@@ -76,6 +83,7 @@
       "documented_workflows": ["n-up", "step-and-repeat", "variable-data", "page-shuffle", "creep"],
       "product_distinctions": {"quite-imposing-plus": "Adobe Acrobat plug-in; full supported Acrobat required, not Reader", "quite-hot-imposing": "Standalone watched-folder and command-line product"},
       "limitations": ["Do not treat the Acrobat plug-in and standalone automation product as interchangeable.", "Check current OS and Acrobat compatibility."],
+      "image": {"path": "../images/quite-imposing.jpg", "source_url": "https://www.quite.com/imposing/features.htm", "captured_on": "2026-11-03", "alt": "Quite Imposing official features comparison for Plus and HOT"},
       "sources": ["https://www.quite.com/imposing/features.htm", "https://www.quite.com/imposing/download.htm"],
       "checked_at": "2026-11-03"
     },
@@ -88,6 +96,7 @@
       "documented_workflows": ["n-up", "booklet", "cut-and-stack", "pdf-and-image-layouts", "multiple-file-layouts"],
       "product_distinctions": {"standalone": "No Acrobat dependency", "plugin": "Acrobat required; Reader is insufficient", "vdp": "Optional extension", "prohot": "Hot-folder and batch capability"},
       "limitations": ["Free edition has a final sheet-size restriction.", "Check the exact edition for variable-data and automation requirements."],
+      "image": {"path": "../images/montax-imposer.jpg", "source_url": "https://www.montax-imposer.com/", "captured_on": "2026-11-03", "alt": "Montax Imposer official product page with layout workspace example"},
       "sources": ["https://www.montax-imposer.com/"],
       "checked_at": "2026-11-03"
     },
@@ -101,6 +110,7 @@
       "pdf_processing": "local-device-offline",
       "acrobat_requirement": "Optional plug-in; standalone mode does not require Acrobat",
       "limitations": ["Demo exports are watermarked.", "Numbering and variable data are assigned to the separate Ticket Wizard product."],
+      "image": {"path": "../images/imposition-wizard.jpg", "source_url": "https://appsforlife.com/impositionwizard/", "captured_on": "2026-11-03", "alt": "Imposition Wizard official homepage and desktop application preview"},
       "sources": ["https://appsforlife.com/impositionwizard/"],
       "checked_at": "2026-11-03"
     },
@@ -112,6 +122,7 @@
       "runtime": "macos-windows-desktop",
       "documented_workflows": ["pdf-booklet-page-reordering"],
       "limitations": ["Narrow PDF-to-booklet product scope; advanced prepress or automation claims were not verified."],
+      "image": {"path": "../images/bookletcreator.jpg", "source_url": "https://www.bookletcreator.com/", "captured_on": "2026-11-03", "alt": "BookletCreator official homepage with a Mac application preview"},
       "sources": ["https://www.bookletcreator.com/"],
       "checked_at": "2026-11-03"
     }

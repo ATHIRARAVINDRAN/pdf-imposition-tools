@@ -27,3 +27,7 @@ Documentation checked **3 November 2026**. Sources below are official vendor pag
 The numeric page-order and card-fit specifications in [proof examples](docs/imposition-proof-examples.md) are original worked examples. Their arithmetic was checked separately. Actual printer feed order, imageable area, cutter route, stock and required tolerances remain job-specific.
 
 Dollar prices are deliberately linked rather than copied into the comparison. Free allowances, current installer availability and product boundaries are included because they materially affect a reader's choice. Corrections are welcome under [contributing](CONTRIBUTING.md).
+
+## Product screenshots
+
+Screenshots were captured from the linked official public product pages on **3 November 2026**. They illustrate the products rather than a completed production test. [Capture sources and file hashes](images/capture-manifest.json) are recorded for each image. Product interfaces and branding belong to their respective owners.
